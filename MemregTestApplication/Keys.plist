@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parseApiParamS</key>
+	<string>deviceId</string>
+	<key>parseApiParamFi</key>
+	<string>platform</string>
+	<key>parseApiParamFo</key>
+	<string>version</string>
+	<key>parseApiParamTh</key>
+	<string>m_no</string>
+	<key>parseApiParamSec</key>
+	<string>push_id</string>
+	<key>parseApiParamFirst</key>
+	<string>device_id</string>
+	<key>parseApiUrl</key>
+	<string>http://www.womanstalk.co.kr/app/mem_reg.php</string>
+	<key>parseCheckApiUrl</key>
+	<string>http://api.womanstalk.co.kr/api/getDeviceData</string>
+</dict>
+</plist>
